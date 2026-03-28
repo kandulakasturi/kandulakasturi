@@ -12,7 +12,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 💻 Java Full Stack Developer  
+- 💻 Java Full Stack Developer 
 - 🎓 B.Tech Student  
 - 🌱 Building and improving full stack applications with modern technologies 
 - 🎯 Goal: Become a professional Java Full Stack Developer
